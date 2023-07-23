@@ -15,12 +15,12 @@ Microsoft sees all the big companies creating original video content and they wa
 
 ## The Data Used
 For this project, I used exploratory data analysis on these datasets:
-* 1. Bom_movies
-* 2. title_basics 
-* 3. title_akas 
-* 4. name_basics 
-* 5. movie_budgets 
-* 6. title_crew 
+* Bom_movies
+* title_basics 
+* title_akas 
+* name_basics 
+* movie_budgets 
+* title_crew 
 
 ## Data Cleaning and Analysis
 I did a deep dive into the datasets to understand the structure and state of the data.
@@ -40,23 +40,23 @@ After reviewing the data, I got an idea of the questions I could answer by mergi
 5. What are the number of movies produced over the years?
 
 ## Results
-http://localhost:8888/view/Graphs/2.jpg
+![2](https://github.com/Mwenda-Mugambi/dsc-phase-1-project/assets/132069152/f73410df-da76-4129-8598-091d0437b4d0)
 * UTV, WB(NL), ParV and FD, Had movies with the highest ROI.
 * P/DW and BV had the most profitable movies.
 
-http://localhost:8888/view/Graphs/1.jpg
+![1](https://github.com/Mwenda-Mugambi/dsc-phase-1-project/assets/132069152/2e5f736b-5c19-445c-9d7e-b9aac88bdb0c)
 * Drama, Comedy, Action, Crime and Thriller genres are the most popular genres produced.
 
-http://localhost:8888/view/Graphs/3.jpg
+![3](https://github.com/Mwenda-Mugambi/dsc-phase-1-project/assets/132069152/f8724f5e-443c-421d-9d09-75eefd08a4d3)
 * Action, Adventure, Sci-Fi, Thriller and Crime genres were the most profitable.
 
-http://localhost:8888/view/Graphs/4.jpg
+![4](https://github.com/Mwenda-Mugambi/dsc-phase-1-project/assets/132069152/706861e2-9fd8-4448-926b-0972590899f5)
 * Horror, Mystery and Thriller  genres have the highest ROI.
 
-http://localhost:8888/view/Graphs/5.jpg
+![5](https://github.com/Mwenda-Mugambi/dsc-phase-1-project/assets/132069152/df527f31-c6a1-4f2c-8ad6-cd486709004f)
 * James Wan, Michael Bay and Christopher Nolan have the most profitable movies.
 
-http://localhost:8888/view/Graphs/6.jpg
+![6](https://github.com/Mwenda-Mugambi/dsc-phase-1-project/assets/132069152/d16799d5-650f-4e35-9331-24e677a580ed)
 * 2017 had the highest number of movie releases.
 * There was a drastic drop in the number of movie releases from 2018 to 2020.
 
