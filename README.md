@@ -1,4 +1,4 @@
-# Microsoft Studio Movie Analysis
+# Microsoft Studio Product Analysis
 
 #### Author: Mwenda Mugambi
 
