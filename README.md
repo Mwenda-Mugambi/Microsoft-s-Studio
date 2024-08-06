@@ -1,4 +1,4 @@
-# Phase 1 Project
+# Microsoft Studio Movie Analysis
 
 #### Author: Mwenda Mugambi
 
